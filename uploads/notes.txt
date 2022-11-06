@@ -1,0 +1,17 @@
+https://tripplite.eaton.com/products/pdu-buying-guide
+q's to ask : 120 / 210 v
+dumb
+
+Tripplite PDU1230   == $240;  4 120v,    4 210v; 1u                ; 1 in
+Tripplite PDU121506 == $80 ; 13 120v,    0 210v; 1u                ; 1 in
+Tripplite PDUV15-48 == $120; 14 120v,    0 210v; vertical (120v in); 1 in 
+Tripplite PDUV20    == $175; 14 120v,    0 210v; vertical (220v in); 1 in
+APC       AP9567    == $259; 14 120v,    0 210v; vertical (120v in); 1 in
+APC       AP6002A   == $299; 14 120v,    2 210v; vertical (208v in); 1 in
+CYBERPOWER DOES NOT LIST PRICES
+
+UPS
+
+Tripplite SMART500RT1U == $275; 500VA 300W; 6 NEMA 5-15R; 250,000 Ultimate Lifetime Insurance 
+Tripplite SMX500RT1U   == $300; 500VA 300W; 6 C13 outlets; 2 year warrenty
+APC > $10k

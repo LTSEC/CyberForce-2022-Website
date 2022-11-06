@@ -1,5 +1,36 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    <h1>{% block title %} Welcome to FlaskBlog {% endblock %}</h1>
+<span style="height:4em;"> </span>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Contact Us</h4>
+                  <p class="card-text">
+                    Welcome to Sole-Zon-Solis Energy, we are happy to answer any questions you might have about our services. Please fill out this form and we will respond shortly!
+                  </p>
+                </div>
+              </div>
+        </div>
+
+
+        <div class="col-sm">
+            <form action="/contact" method="post" enctype="multipart/form-data">
+                <input class="form-control" placeholder="Name" type="text" name="name">
+                <br>
+                <input class="form-control" placeholder="Email" type="phone" name="email">
+                <br>
+                <input class="form-control" placeholder="Phone" type="text" name="phone">
+                <br>
+                <input class="form-control-file" type="file" name="file">
+                <br>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+
+        </div>
+    </div>
+</div>
 {% endblock %}

@@ -2,10 +2,33 @@
 
 {% block content %}
 
-<h1>{% block title %} Welcome to FlaskBlog {% endblock %}</h1>
+<div class="ftp-files">
+    <h3>
+        FTP FILES
+    </h3>
 
-<h1 class="title">
-    Welcome, {{ name }}!
-</h1>
+    {% for file in files %}
+    <form method="post" enctype="multipart/form-data">
+        <label style="width:250px" class="btn btn-primary" for="test">{{ file }}</label>
+        <input type="hidden" name="file" value='{{ file }}'>
+        <button style="width:250px" type="submit" class="btn btn-primary">download</button>
+    </form>
+    <br>
+    {% endfor %}
+</div>
+
+<hr>
+
+<div class="email-files">
+    <h3>
+        EMAILS
+    </h3>
+    {% for email in emails %}
+    <div>{{ email }}</div>
+
+    {% endfor %}
+</div>
+
+
 
 {% endblock %}

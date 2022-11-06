@@ -14,12 +14,15 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-md navbar-light bg-light">
-    <a class="navbar-brand" href="{{ url_for('index')}}">HOME</a>
+  <nav class="navbar navbar-expand-md navbar-light bg-light justify-content-center">
+    <a class="navbar-brand" style="padding-right: 5px;" href="{{ url_for('index')}}"><img
+      src="./static/SoleZonSolis.png"
+      alt="" style="height:50px;">
+    </a>
 
-    <a class="navbar-text" href="{{ url_for('contact')}}">Contact Us &nbsp;</a>
-    <a class="navbar-text" href="{{ url_for('about2')}}">Manufacturing &nbsp; </a>
-    <a class="navbar-text" href="{{ url_for('about1')}}">Solar Generation &nbsp;</a>
+    <a class="navbar-text" style="padding-right: 5px;" href="{{ url_for('contact')}}">Contact Us &nbsp;</a>
+    <a class="navbar-text" style="padding-right: 5px;" href="{{ url_for('about2')}}">Manufacturing &nbsp; </a>
+    <a class="navbar-text" style="padding-right: 5px;" href="{{ url_for('about1')}}">Solar Generation &nbsp;</a>
     <a class="navbar-text" href="{{ url_for('login')}}">Login</a>
 
     <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,26 +36,25 @@
             </ul>
         </div> -->
   </nav>
-  <div class="container">
+  <div class="container" style="padding-top: 1%;">
     {% block content %} {% endblock %}
   </div>
-
 
   <footer class="fixed-bottom bg-primary">
 
     <div class="container">
-      <div class="row">
+      <div class="row" style="padding-top: 1%;">
         <div class="col-sm">
           <!-- Content -->
 
           <img
-            src="https://img.thedailybeast.com/image/upload/dpr_2.0/c_crop,h_1440,w_1440,x_563,y_0/c_limit,w_128/d_placeholder_euli9k,fl_lossy,q_auto/v1532322486/170822-Parker-solar-power-hero_qbudts"
-            alt="">
+            src="./static/VitaVehiculum.png"
+            alt="" style="height:50px;">
 
         </div>
         <div class="col-sm">
           <!-- Content -->
-          <button type="button" class="btn btn-light align-middle">BUTTON</button>
+          <button type="button" class="btn btn-light align-middle">NEWSLETTER</button>
 
 
         </div>

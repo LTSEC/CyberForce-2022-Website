@@ -1,0 +1,236 @@
+[2022-11-05 16:12:38 +0000] [2111] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 16:12:38 +0000] [2111] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:39 +0000] [2111] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:40 +0000] [2111] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:41 +0000] [2111] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:47 +0000] [2114] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 16:12:47 +0000] [2114] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:48 +0000] [2114] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:49 +0000] [2114] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:50 +0000] [2114] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:51 +0000] [2114] [ERROR] Retrying in 1 second.
+[2022-11-05 16:12:52 +0000] [2114] [ERROR] Can't connect to ('0.0.0.0', 80)
+[2022-11-05 16:15:09 +0000] [2164] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 16:15:09 +0000] [2164] [INFO] Listening at: http://0.0.0.0:80 (2164)
+[2022-11-05 16:15:09 +0000] [2164] [INFO] Using worker: sync
+[2022-11-05 16:15:09 +0000] [2167] [INFO] Booting worker with pid: 2167
+[2022-11-05 16:19:41 +0000] [2111] [ERROR] Retrying in 1 second.
+[2022-11-05 16:19:42 +0000] [2111] [ERROR] Can't connect to ('0.0.0.0', 80)
+[2022-11-05 16:35:49 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2167)
+[2022-11-05 16:35:49 +0000] [2167] [INFO] Worker exiting (pid: 2167)
+[2022-11-05 16:35:49 +0000] [2746] [INFO] Booting worker with pid: 2746
+[2022-11-05 16:36:20 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2746)
+[2022-11-05 16:36:20 +0000] [2746] [INFO] Worker exiting (pid: 2746)
+[2022-11-05 16:36:20 +0000] [2941] [INFO] Booting worker with pid: 2941
+[2022-11-05 16:36:58 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2941)
+[2022-11-05 16:36:58 +0000] [2941] [INFO] Worker exiting (pid: 2941)
+[2022-11-05 16:36:58 +0000] [2966] [INFO] Booting worker with pid: 2966
+[2022-11-05 16:37:29 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2966)
+[2022-11-05 16:37:29 +0000] [2966] [INFO] Worker exiting (pid: 2966)
+[2022-11-05 16:37:29 +0000] [2977] [INFO] Booting worker with pid: 2977
+[2022-11-05 16:38:00 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2977)
+[2022-11-05 16:38:00 +0000] [2977] [INFO] Worker exiting (pid: 2977)
+[2022-11-05 16:38:00 +0000] [2978] [INFO] Booting worker with pid: 2978
+[2022-11-05 16:38:31 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2978)
+[2022-11-05 16:38:31 +0000] [2978] [INFO] Worker exiting (pid: 2978)
+[2022-11-05 16:38:31 +0000] [2980] [INFO] Booting worker with pid: 2980
+[2022-11-05 16:39:02 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2980)
+[2022-11-05 16:39:02 +0000] [2980] [INFO] Worker exiting (pid: 2980)
+[2022-11-05 16:39:03 +0000] [2981] [INFO] Booting worker with pid: 2981
+[2022-11-05 16:39:34 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2981)
+[2022-11-05 16:39:34 +0000] [2981] [INFO] Worker exiting (pid: 2981)
+[2022-11-05 16:39:34 +0000] [2986] [INFO] Booting worker with pid: 2986
+[2022-11-05 16:40:05 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2986)
+[2022-11-05 16:40:05 +0000] [2986] [INFO] Worker exiting (pid: 2986)
+[2022-11-05 16:40:05 +0000] [2987] [INFO] Booting worker with pid: 2987
+[2022-11-05 16:40:36 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2987)
+[2022-11-05 16:40:36 +0000] [2987] [INFO] Worker exiting (pid: 2987)
+[2022-11-05 16:40:36 +0000] [2990] [INFO] Booting worker with pid: 2990
+[2022-11-05 16:41:07 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2990)
+[2022-11-05 16:41:07 +0000] [2990] [INFO] Worker exiting (pid: 2990)
+[2022-11-05 16:41:07 +0000] [2991] [INFO] Booting worker with pid: 2991
+[2022-11-05 16:41:38 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2991)
+[2022-11-05 16:41:38 +0000] [2991] [INFO] Worker exiting (pid: 2991)
+[2022-11-05 16:41:38 +0000] [2994] [INFO] Booting worker with pid: 2994
+[2022-11-05 16:42:09 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2994)
+[2022-11-05 16:42:09 +0000] [2994] [INFO] Worker exiting (pid: 2994)
+[2022-11-05 16:42:09 +0000] [2995] [INFO] Booting worker with pid: 2995
+[2022-11-05 16:58:20,179] ERROR in app: Exception on /login [POST]
+Traceback (most recent call last):
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/flask-template/app.py", line 120, in login
+    login_msg = global_ldap_authentication(username, password)
+  File "/var/www/flask-template/auth.py", line 33, in global_ldap_authentication
+    if not connection.bind():
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/core/connection.py", line 589, in bind
+    self.open(read_server_info=False)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/strategy/sync.py", line 57, in open
+    BaseStrategy.open(self, reset_usage, read_server_info)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/strategy/base.py", line 154, in open
+    raise LDAPSocketOpenError('invalid server address')
+ldap3.core.exceptions.LDAPSocketOpenError: invalid server address
+[2022-11-05 16:58:20,192] ERROR in app: Exception on /login [POST]
+Traceback (most recent call last):
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/flask-template/app.py", line 120, in login
+    login_msg = global_ldap_authentication(username, password)
+  File "/var/www/flask-template/auth.py", line 33, in global_ldap_authentication
+    if not connection.bind():
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/core/connection.py", line 589, in bind
+    self.open(read_server_info=False)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/strategy/sync.py", line 57, in open
+    BaseStrategy.open(self, reset_usage, read_server_info)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/strategy/base.py", line 154, in open
+    raise LDAPSocketOpenError('invalid server address')
+ldap3.core.exceptions.LDAPSocketOpenError: invalid server address
+[2022-11-05 17:50:59,096] ERROR in app: Exception on /login [POST]
+Traceback (most recent call last):
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/blueteam/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/flask-template/app.py", line 120, in login
+    login_msg = global_ldap_authentication(username, password)
+  File "/var/www/flask-template/auth.py", line 33, in global_ldap_authentication
+    if not connection.bind():
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/core/connection.py", line 589, in bind
+    self.open(read_server_info=False)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/strategy/sync.py", line 57, in open
+    BaseStrategy.open(self, reset_usage, read_server_info)
+  File "/home/blueteam/.local/lib/python3.8/site-packages/ldap3/strategy/base.py", line 154, in open
+    raise LDAPSocketOpenError('invalid server address')
+ldap3.core.exceptions.LDAPSocketOpenError: invalid server address
+[2022-11-05 17:53:51 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:2995)
+[2022-11-05 17:53:51 +0000] [2995] [INFO] Worker exiting (pid: 2995)
+bob sjhd76eww!
+cn=bob,dc=example,dc=org
+bob sjhd76eww!
+cn=bob,dc=example,dc=org
+plank 5!ys!hhsds
+cn=plank,dc=example,dc=org
+UPLOADING test
+[2022-11-05 17:53:51 +0000] [3232] [INFO] Booting worker with pid: 3232
+[2022-11-05 18:14:31 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:3232)
+[2022-11-05 18:14:31 +0000] [3232] [INFO] Worker exiting (pid: 3232)
+[2022-11-05 18:14:31 +0000] [3363] [INFO] Booting worker with pid: 3363
+[2022-11-05 18:14:42 +0000] [3373] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 18:14:42 +0000] [3373] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:14:42 +0000] [3373] [ERROR] Retrying in 1 second.
+[2022-11-05 18:14:43 +0000] [3373] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:14:43 +0000] [3373] [ERROR] Retrying in 1 second.
+[2022-11-05 18:14:44 +0000] [3373] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:14:44 +0000] [3373] [ERROR] Retrying in 1 second.
+[2022-11-05 18:14:45 +0000] [3373] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:14:45 +0000] [3373] [ERROR] Retrying in 1 second.
+[2022-11-05 18:14:46 +0000] [3373] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:14:46 +0000] [3373] [ERROR] Retrying in 1 second.
+[2022-11-05 18:14:47 +0000] [3373] [ERROR] Can't connect to ('0.0.0.0', 80)
+[2022-11-05 18:16:28 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:3363)
+[2022-11-05 18:16:28 +0000] [3363] [INFO] Worker exiting (pid: 3363)
+[2022-11-05 18:16:28 +0000] [3382] [INFO] Booting worker with pid: 3382
+[2022-11-05 18:16:59 +0000] [2164] [CRITICAL] WORKER TIMEOUT (pid:3382)
+[2022-11-05 18:16:59 +0000] [3382] [INFO] Worker exiting (pid: 3382)
+[2022-11-05 18:16:59 +0000] [3384] [INFO] Booting worker with pid: 3384
+[2022-11-05 18:18:07 +0000] [2164] [INFO] Handling signal: term
+[2022-11-05 18:18:07 +0000] [3384] [INFO] Worker exiting (pid: 3384)
+[2022-11-05 18:18:07 +0000] [2164] [INFO] Shutting down: Master
+[2022-11-05 18:18:18 +0000] [3412] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 18:18:18 +0000] [3412] [INFO] Listening at: http://0.0.0.0:80 (3412)
+[2022-11-05 18:18:18 +0000] [3412] [INFO] Using worker: sync
+[2022-11-05 18:18:18 +0000] [3415] [INFO] Booting worker with pid: 3415
+[2022-11-05 18:20:35 +0000] [3425] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 18:20:35 +0000] [3425] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:35 +0000] [3425] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:36 +0000] [3425] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:36 +0000] [3425] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:37 +0000] [3425] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:37 +0000] [3425] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:38 +0000] [3425] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:38 +0000] [3425] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:39 +0000] [3425] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:39 +0000] [3425] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:40 +0000] [3425] [ERROR] Can't connect to ('0.0.0.0', 80)
+[2022-11-05 18:20:42 +0000] [3433] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 18:20:42 +0000] [3433] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:42 +0000] [3433] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:43 +0000] [3433] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:43 +0000] [3433] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:44 +0000] [3433] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:44 +0000] [3433] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:45 +0000] [3433] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:45 +0000] [3433] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:46 +0000] [3433] [ERROR] Connection in use: ('0.0.0.0', 80)
+[2022-11-05 18:20:46 +0000] [3433] [ERROR] Retrying in 1 second.
+[2022-11-05 18:20:47 +0000] [3433] [ERROR] Can't connect to ('0.0.0.0', 80)
+[2022-11-05 18:20:58 +0000] [3412] [CRITICAL] WORKER TIMEOUT (pid:3415)
+[2022-11-05 18:20:58 +0000] [3412] [INFO] Handling signal: term
+[2022-11-05 18:20:58 +0000] [3412] [INFO] Shutting down: Master
+[2022-11-05 18:21:54 +0000] [3452] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 18:21:54 +0000] [3452] [INFO] Listening at: http://0.0.0.0:80 (3452)
+[2022-11-05 18:21:54 +0000] [3452] [INFO] Using worker: sync
+[2022-11-05 18:21:54 +0000] [3455] [INFO] Booting worker with pid: 3455
+[2022-11-05 18:21:54 +0000] [3456] [INFO] Booting worker with pid: 3456
+[2022-11-05 18:21:54 +0000] [3457] [INFO] Booting worker with pid: 3457
+[2022-11-05 18:21:54 +0000] [3458] [INFO] Booting worker with pid: 3458
+[2022-11-05 18:22:44 +0000] [3458] [INFO] Worker exiting (pid: 3458)
+[2022-11-05 18:22:44 +0000] [3452] [INFO] Handling signal: term
+[2022-11-05 18:22:44 +0000] [3455] [INFO] Worker exiting (pid: 3455)
+[2022-11-05 18:22:44 +0000] [3457] [INFO] Worker exiting (pid: 3457)
+[2022-11-05 18:22:44 +0000] [3452] [WARNING] Worker with pid 3458 was terminated due to signal 15
+[2022-11-05 18:22:44 +0000] [3456] [INFO] Worker exiting (pid: 3456)
+[2022-11-05 18:22:44 +0000] [3452] [INFO] Shutting down: Master
+[2022-11-05 18:22:46 +0000] [3470] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 18:22:46 +0000] [3470] [INFO] Listening at: http://0.0.0.0:80 (3470)
+[2022-11-05 18:22:46 +0000] [3470] [INFO] Using worker: sync
+[2022-11-05 18:22:46 +0000] [3473] [INFO] Booting worker with pid: 3473
+[2022-11-05 18:22:46 +0000] [3474] [INFO] Booting worker with pid: 3474
+[2022-11-05 18:22:46 +0000] [3475] [INFO] Booting worker with pid: 3475
+[2022-11-05 18:22:46 +0000] [3476] [INFO] Booting worker with pid: 3476
+[2022-11-05 18:23:00 +0000] [3470] [INFO] Handling signal: int
+[2022-11-05 18:23:01 +0000] [3474] [INFO] Worker exiting (pid: 3474)
+[2022-11-05 18:23:01 +0000] [3476] [INFO] Worker exiting (pid: 3476)
+[2022-11-05 18:23:01 +0000] [3475] [INFO] Worker exiting (pid: 3475)
+[2022-11-05 18:23:01 +0000] [3473] [INFO] Worker exiting (pid: 3473)
+[2022-11-05 18:23:01 +0000] [3470] [INFO] Shutting down: Master
+[2022-11-05 18:23:08 +0000] [3479] [INFO] Starting gunicorn 20.1.0
+[2022-11-05 18:23:08 +0000] [3479] [INFO] Listening at: http://0.0.0.0:80 (3479)
+[2022-11-05 18:23:08 +0000] [3479] [INFO] Using worker: sync
+[2022-11-05 18:23:08 +0000] [3482] [INFO] Booting worker with pid: 3482
+[2022-11-05 18:23:08 +0000] [3483] [INFO] Booting worker with pid: 3483
+[2022-11-05 18:23:08 +0000] [3484] [INFO] Booting worker with pid: 3484
+[2022-11-05 18:23:08 +0000] [3485] [INFO] Booting worker with pid: 3485
+[2022-11-05 18:23:41 +0000] [3479] [CRITICAL] WORKER TIMEOUT (pid:3483)
+[2022-11-05 18:23:41 +0000] [3483] [INFO] Worker exiting (pid: 3483)
+[2022-11-05 18:23:41 +0000] [3487] [INFO] Booting worker with pid: 3487
+[2022-11-05 18:23:59 +0000] [3479] [CRITICAL] WORKER TIMEOUT (pid:3485)
+[2022-11-05 18:23:59 +0000] [3485] [INFO] Worker exiting (pid: 3485)
+[2022-11-05 18:23:59 +0000] [3488] [INFO] Booting worker with pid: 3488
+[2022-11-05 18:24:35 +0000] [3479] [CRITICAL] WORKER TIMEOUT (pid:3482)
+[2022-11-05 18:24:35 +0000] [3482] [INFO] Worker exiting (pid: 3482)
+[2022-11-05 18:24:35 +0000] [3490] [INFO] Booting worker with pid: 3490
+[2022-11-05 18:29:18 +0000] [3479] [CRITICAL] WORKER TIMEOUT (pid:3490)
+[2022-11-05 18:29:18 +0000] [3490] [INFO] Worker exiting (pid: 3490)
+[2022-11-05 18:29:18 +0000] [3497] [INFO] Booting worker with pid: 3497
+[2022-11-05 18:29:56 +0000] [3479] [CRITICAL] WORKER TIMEOUT (pid:3488)
+[2022-11-05 18:29:56 +0000] [3488] [INFO] Worker exiting (pid: 3488)
+[2022-11-05 18:29:56 +0000] [3507] [INFO] Booting worker with pid: 3507
+gunicorn (version 20.1.0)
+gunicorn: No such file or directory

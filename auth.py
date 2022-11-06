@@ -16,13 +16,13 @@ def global_ldap_authentication(user_name, user_pwd):
     ldap_user_pwd = user_pwd.strip()
 
     # ldap server hostname and port
-    ldsp_server = f"ldap://openldap:1389"
+    ldsp_server = f"ldap://0.0.0.0:389"
 
     # dn
-    root_dn = "dc=example,dc=org"
+    root_dn = "dc=t86,dc=local"
 
     # user
-    user = f'cn={ldap_user_name},{root_dn}'
+    user = f'cn={user_name},{root_dn}'
 
     print(user)
     server = Server(ldsp_server, get_info=ALL)

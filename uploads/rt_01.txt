@@ -1,0 +1,7 @@
+ssh scorechk (found via T1078) to do T1133 -> (T1204) -> (T1098)  they made `/home/green01/kphan` -> installed cfc_pwnkit.sh and looked for polkit running to exploit of CVE-2021-4034 (TTP T1554) -> ran traitor to exploit further (T1554)
+ 
+T1554 compromise client software bianry
+T1098 account manipulation
+T1204 user execution
+T1133 used SSH via T1078
+T1068 used for privesc
